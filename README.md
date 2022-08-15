@@ -109,20 +109,20 @@ because of the method relPrimeSystem being O(n2).
 
 ### Samples:
 <b>
-4<br/>
+>> 4<br/>
 3  1  2<br/>
 5  3  7<br/>
 6  2  5<br/>
 1  4  9<br/>
 247<hr/>
 
-3<br/>
+>> 3<br/>
 2  1  3<br/>
 3  5  6<br/>
 7  1  2<br/>
 not solvable<hr/>
 
-2<br/>
+>> 2<br/>
 2  1  -1<br/>
 2  3   7<br/>
 not solvable<hr/>
