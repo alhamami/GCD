@@ -108,7 +108,7 @@ x = x % m;
 because of the method relPrimeSystem being O(n2).
 
 ### Samples:
-4
+4<br/>
 3  1  2
 5  3  7
 6  2  5
