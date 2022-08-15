@@ -108,23 +108,25 @@ x = x % m;
 because of the method relPrimeSystem being O(n2).
 
 ### Samples:
+<b>
 4<br/>
-3  1  2
-5  3  7
-6  2  5
-1  4  9
-247
+3  1  2<br/>
+5  3  7<br/>
+6  2  5<br/>
+1  4  9<br/>
+247<br/>
 
-3
-2  1  3
-3  5  6
-7  1  2
-not solvable
+3<br/>
+2  1  3<br/>
+3  5  6<br/>
+7  1  2<br/>
+not solvable<br/>
 
-2
-2  1  -1
-2  3   7
-not solvable
+2<br/>
+2  1  -1<br/>
+2  3   7<br/>
+not solvable<br/>
+<b/>
 
 ## Conclusion:
 - We have learned a ton of things from this project, primarily how a 
