@@ -109,22 +109,22 @@ because of the method relPrimeSystem being O(n2).
 
 ### Samples:
 > 4
-3  1  2
-5  3  7
-6  2  5
-1  4  9
-247
+> 3  1  2
+> 5  3  7
+> 6  2  5
+> 1  4  9
+> 247
 
 > 3
-2  1  3
-3  5  6
-7  1  2
-not solvable
+> 2  1  3
+> 3  5  6
+> 7  1  2
+> not solvable
 
 > 2
-2  1  -1
-2  3   7
-not solvable
+> 2  1  -1
+> 2  3   7
+> not solvable
 
 ## Conclusion:
 - We have learned a ton of things from this project, primarily how a 
